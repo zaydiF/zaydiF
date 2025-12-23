@@ -2,13 +2,11 @@
 <p align="center">
 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="200">
 
-
 <h1 align="center">Hi there, I'm Dimka</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1> <!--рука машет-->
 
 <!--надпись тайпинг-->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=I+am+a+Junior+Mobile+developer+%3C3" alt="Typing SVG" /></a>
-
 
 <!--стеки-->
 # Tech Stack
@@ -48,19 +46,10 @@
 
 ![](https://github-trophies.vercel.app/?username=zaydiF&theme=apprentice&no-frame=false&no-bg=true&margin-w=4) <!--трофеи-->
 
-
 <!--график-->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=zaydiF&theme=github&bg_color=000000&color=ffffff&line=ffffff&point=ffffff&hide_border=true&area=true&area_color=ffffff" alt="activity graph" />
 </p>
-
-<!--кубки-->
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=zaydiF&theme=dark&no-frame=true&row=2&column=4&margin-w=15&margin-h=15" alt="trophies" />
-</p>
-
-
-
 
 <!--змея-->
 <p align="center">
