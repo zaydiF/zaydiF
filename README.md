@@ -10,15 +10,15 @@
 
 <!--стеки-->
 # Tech Stack
-![C](https://img.shields.io/badge/C-FFFFFF?logo=c&logoColor=000000&style=for-the-badge)
-![C#](https://img.shields.io/badge/C%23-FFFFFF?logo=csharp&logoColor=000000&style=for-the-badge)
-![C++](https://img.shields.io/badge/C%2B%2B-FFFFFF?logo=cplusplus&logoColor=000000&style=for-the-badge)
-![Python](https://img.shields.io/badge/Python-FFFFFF?logo=python&logoColor=000000&style=for-the-badge)
+<!--стеки-->![C](https://img.shields.io/badge/C-FFFFFF?logo=c&logoColor=000000&style=for-the-badge)
+<!--стеки-->![C#](https://img.shields.io/badge/C%23-FFFFFF?logo=csharp&logoColor=000000&style=for-the-badge)
+<!--стеки-->![C++](https://img.shields.io/badge/C%2B%2B-FFFFFF?logo=cplusplus&logoColor=000000&style=for-the-badge)
+<!--стеки-->![Python](https://img.shields.io/badge/Python-FFFFFF?logo=python&logoColor=000000&style=for-the-badge)
 ![Java](https://img.shields.io/badge/Java-FFFFFF?logo=openjdk&logoColor=000000&style=for-the-badge)
 ![Kotlin](https://img.shields.io/badge/Kotlin-FFFFFF?logo=kotlin&logoColor=000000&style=for-the-badge)
 ![Dart](https://img.shields.io/badge/Dart-FFFFFF?logo=dart&logoColor=000000&style=for-the-badge)
-![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?logo=html5&logoColor=000000&style=for-the-badge)
-![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?logo=css3&logoColor=000000&style=for-the-badge)
+<!--стеки-->![HTML5](https://img.shields.io/badge/HTML5-FFFFFF?logo=html5&logoColor=000000&style=for-the-badge)
+<!--стеки-->![CSS3](https://img.shields.io/badge/CSS3-FFFFFF?logo=css3&logoColor=000000&style=for-the-badge)
 ![SQLite](https://img.shields.io/badge/SQLite-FFFFFF?logo=sqlite&logoColor=000000&style=for-the-badge)
 ![MySQL](https://img.shields.io/badge/MySQL-FFFFFF?logo=mysql&logoColor=000000&style=for-the-badge)
 ![Postgres](https://img.shields.io/badge/Postgres-FFFFFF?logo=postgresql&logoColor=000000&style=for-the-badge)
